@@ -1,78 +1,152 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-name="Avivamiento TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="",Avivamiento TV (720p)
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Canal 1
-http://186.101.216.211:8000/play/cuno
-#EXTINF:-1 tvg-id="Canal2.co" tvg-name="Canal 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="",Canal 2 [Not 24/7]
-https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
-#EXTINF:-1 tvg-id="Canal2.co" tvg-name="Canal 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="",Canal 2 [Not 24/7]
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
-#EXTINF:-1 tvg-id="CanalC.co" tvg-name="Canal C (Cali | Valle del Cauca)" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg" group-title="",Canal C (Cali | Valle del Cauca)
-https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="",Canal Capital
-http://186.101.216.211:8000/play/a03m
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="",Canal Capital (720p)
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Caracol
-http://186.101.216.211:8000/play/a08z
-#EXTINF:-1 tvg-id="CanalCaracol.co" tvg-name="Canal Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Caracol [Geo-locked]
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Claro (Colombia)
-http://186.101.216.211:8000/play/a08e
-#EXTINF:-1 tvg-id="CanalClaro.co" tvg-name="Canal Claro" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png" group-title="",Canal Claro (Colombia)
-http://209.91.213.10:8088/play/a00b
-#EXTINF:-1 tvg-id="CanalDos.co" tvg-name="Canal Dos (Ciudad de Yopal)" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Canal Dos (Ciudad de Yopal)
-http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entertainment",Canal RCN
-http://186.101.216.211:8000/play/a09k
-#EXTINF:-1 tvg-id="ChavoTV.co" tvg-name="Chavo TV" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Chavo TV
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ClaroMusica.co" tvg-name="Claro Musica" tvg-country="LATAM" tvg-language="" tvg-logo="" group-title="Music",Claro Musica
-http://209.91.213.10:8088/play/a027
-#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="Claro Sports" tvg-country="LATAM" tvg-language="" tvg-logo="" group-title="Sports",Claro Sports
-http://209.91.213.10:8088/play/a024
-#EXTINF:-1 tvg-id="ColosalTV.co" tvg-name="Colosal TV" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Colosal TV (720p)
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-id="Eduvision.co" tvg-name="Eduvision" tvg-country="CO" tvg-language="" tvg-logo="https://cdn.colombia.com/canales/eduvision-2592.jpg" group-title="",Eduvision
-http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
-#EXTINF:-1 tvg-id="LaMegaCOLOMBIA.co" tvg-name="La Mega COLOMBIA" tvg-country="CO" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/LaMegaColombia909.jpg/225px-LaMegaColombia909.jpg" group-title="",La Mega COLOMBIA
-http://20823.live.streamtheworld.com/LA_MEGA_BOG_SC
-#EXTINF:-1 tvg-id="LATAMTV.tv" tvg-name="LATAM TV" tvg-country="CO" tvg-language="Spanish;English" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" group-title="",LATAM TV (Bogotà) (540p)
-https://iptv-all.lanesh4d0w.codes/latam
-#EXTINF:-1 tvg-id="MarinaStereo.co" tvg-name="Marina Stereo" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="",Marina Stereo (720p)
-https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="MelodyChannelColombia.co" tvg-name="Melody Channel Colombia" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Melody Channel Colombia (720p)
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MundoMas.co" tvg-name="Mundo Mas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" group-title="",Mundo Mas (560p)
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="News",Noticias Caracol
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="Entertainment",RCN Novelas
-http://209.91.213.10:8088/play/a020
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="",Suram TV (1080p)
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" group-title="",Telecaribe
-https://iptv-all.lanesh4d0w.codes/colombia/telecaribe_adaptive
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" group-title="",Telecaribe
-https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" group-title="",Telecaribe
-https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/3296k/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" group-title="",Telecaribe
-https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4xNgb8H.png" group-title="",Teleislas (480p)
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-name="Telemúsica TV" tvg-country="CO" tvg-language="" tvg-logo="https://i.imgur.com/bwp5lST.png" group-title="Music",Telemúsica TV
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacífico" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="",Telepacífico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGracia.co" tvg-name="TVGracia" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-gracia.jpg" group-title="",TVGracia (720p)
-https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-name="UNO PLAY" tvg-country="CO" tvg-language="" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="",UNO PLAY
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sports",Win Sports
-http://186.101.216.211:8000/play/a0cq
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sports",Win Sports +
-http://186.101.216.211:8000/play/g07j
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | ULTRA CINE
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6390
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | A&E FHD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6391
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | AMC  HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6392
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | CINECANAL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6394
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | CINEMAX HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6395
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | DE PELICULA HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6396
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX LIFE  HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6398
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6399
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  ACTION HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6400
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX CINEMA HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6401
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  CLASSICS HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6402
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  COMEDY HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6403
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  FAMILY HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6404
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  MOVIES HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6405
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FX  HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6407
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FXM HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6408
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | GOLDEN EDGE HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6409
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | GOLDEN HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6410
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | GOLDEN PLUS HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6411
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | HBO 2 HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6412
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | MAX HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6415
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | SONY CHANNEL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6418
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | SPACE CHANNEL  HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6419
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | STUDIO UNIVERSAL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6421
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | SYFY HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6424
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TCM HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6427
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TNT LATINO HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6428
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | UNIVERSAL CHANNEL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6431
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | WARNER TV HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6432
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TNT SERIES HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6436
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TNT HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6438
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TCM HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6439
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | SONY CHANNEL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6440
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | GOLDEN HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6441
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | GOLDEN PREMIER HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6442
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX SERIES HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6443
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX LIFE HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6447
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX ACTION FHD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6453
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FX HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6455
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | AXN HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6460
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | A&E   HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6461
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | HBO SIGNATURE HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6465
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | HBO PLUS  HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6466
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | HBO FAMILY HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6467
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | HBO HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6469
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX CINEMA HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6471
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX CHANNEL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6472
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | HBO  POP
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/57262
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX SERIES SD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/115769
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX COMEDY SD (F)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/115907
+#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX FAMILY SD (F)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/115908
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| NTN24 (L)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6487
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CABLE NOTICIAS (A)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6488
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CANAL UNO (p)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6489
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CARACOL INTERNACIONAL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6490
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CARACOL HD (OP02)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6491
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CITY TV (lp)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6492
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| PASIONES (p)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6493
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| RCN (A)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6494
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELEANTIOQUIA (A)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6496
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELECAFE (E)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6497
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELEPACIFICO (L)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6499
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TRECE (L)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/6500
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/8790
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| RCN OPCION 2
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/76983
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CARACOL (OP03)
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/77275
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CITY TV
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/77276
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELEMEDELLIN
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/77277
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELECARIBE
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/77278
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| SEÑAL COLOMBIA HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/77279
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CANAL CAPITAL HD
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/77280
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS + OP 1
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/113307
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS +OP2
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/113308
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS + OP3
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/113309
+#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS +OP 6
+http://latiniptv.vip:8008/Cuentas3/Cuenta31/129871
