@@ -1,152 +1,64 @@
 #EXTM3U
+#EXTINF:-1,Caracol
+http://199.180.114.174:84/ccaracol.m3u8
+#EXTINF:-1,RCN
+http://199.180.114.174:84/crcn.m3u8
+#EXTINF:-1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1,UNE TV CARIBE
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1,UNE TV ARMENIA
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTM3U
+#EXTINF:-1,Canal Uno
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+#EXTINF:-1,Senal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
+#EXTINF:-1,Canal Institucional
+http://cdns840stu1010.multistream.net:80/rtvclive/live-500/PAZ.m3u8
+#EXTINF:-1,Tele pacifico
+http://cdns840stu1010.multistream.net/telepacificolive/amlst:playback1/playlist_b500000.m3u8
+#EXTINF:-1,Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u
+8#EXTINF:-1,Canal Uhttp://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal TRO
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/master.m3u8
+#EXTINF:-1,Canal 13
+http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8
+#EXTINF:-1,Canal Zoom
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1,Teleislas
+http://cdnvideo.webvideocore.net/live3ch/out_4r27ggewzxycowws80ck/index.m3u8
+#EXTINF:-1,Nacion TV
+http://iphone-streaming.ustream.tv/uhls/20749257/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,RCN
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+#EXTINF:-1,El Tiempo Television
+http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/index_1550000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Cable Noticias
+http://50.23.173.13:1935/live/cablenoticiastv_720p/playlist.m3u8
+#EXTINF:-1,TV Agro
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | ULTRA CINE
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6390
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | A&E FHD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6391
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | AMC  HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6392
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | CINECANAL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6394
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | CINEMAX HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6395
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | DE PELICULA HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6396
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX LIFE  HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6398
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6399
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  ACTION HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6400
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX CINEMA HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6401
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  CLASSICS HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6402
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  COMEDY HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6403
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  FAMILY HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6404
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX  MOVIES HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6405
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FX  HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6407
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FXM HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6408
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | GOLDEN EDGE HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6409
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | GOLDEN HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6410
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | GOLDEN PLUS HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6411
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | HBO 2 HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6412
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | MAX HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6415
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | SONY CHANNEL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6418
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | SPACE CHANNEL  HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6419
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | STUDIO UNIVERSAL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6421
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | SYFY HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6424
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TCM HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6427
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TNT LATINO HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6428
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | UNIVERSAL CHANNEL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6431
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | WARNER TV HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6432
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TNT SERIES HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6436
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TNT HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6438
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | TCM HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6439
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | SONY CHANNEL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6440
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | GOLDEN HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6441
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | GOLDEN PREMIER HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6442
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX SERIES HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6443
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX LIFE HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6447
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX ACTION FHD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6453
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FX HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6455
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | AXN HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6460
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | A&E   HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6461
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | HBO SIGNATURE HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6465
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | HBO PLUS  HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6466
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | HBO FAMILY HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6467
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | HBO HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6469
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX CINEMA HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6471
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE  | FOX CHANNEL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6472
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | HBO  POP
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/57262
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX SERIES SD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/115769
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX COMEDY SD (F)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/115907
-#EXTINF:0 tvg-id="ext" group-title="TV CINE  PREMIUM JHON IPTV +51937351634",CINE | FOX FAMILY SD (F)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/115908
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| NTN24 (L)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6487
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CABLE NOTICIAS (A)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6488
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CANAL UNO (p)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6489
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CARACOL INTERNACIONAL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6490
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CARACOL HD (OP02)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6491
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CITY TV (lp)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6492
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| PASIONES (p)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6493
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| RCN (A)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6494
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELEANTIOQUIA (A)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6496
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELECAFE (E)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6497
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELEPACIFICO (L)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6499
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TRECE (L)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/6500
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/8790
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| RCN OPCION 2
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/76983
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CARACOL (OP03)
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/77275
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CITY TV
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/77276
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELEMEDELLIN
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/77277
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| TELECARIBE
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/77278
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| SEÑAL COLOMBIA HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/77279
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| CANAL CAPITAL HD
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/77280
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS + OP 1
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/113307
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS +OP2
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/113308
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS + OP3
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/113309
-#EXTINF:0 tvg-id="ext" group-title="TV COLOMBIA JHON IPTV +51937351634",CO*| WIN SPORTS +OP 6
-http://latiniptv.vip:8008/Cuentas3/Cuenta31/129871
